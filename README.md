@@ -7,7 +7,7 @@
 ## 🖼️ Live Demo
 
 <!-- Demo image -->
-<img src="readme-images/desktop.png" alt="GreenMarket Demo" width="800"/>
+<img src="readme-images/demo.png" alt="GreenMarket Demo" width="800"/>
 
 Check out the live demo here:  
 [**GreenMarket Live Demo**](https://Behnoushin.github.io/GreenMarket/)
