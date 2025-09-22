@@ -4,6 +4,15 @@
 
 ---
 
+## 🖼️ Live Demo
+
+<!-- Demo image -->
+<img src="readme-images/desktop.png" alt="GreenMarket Demo" width="800"/>
+
+Check out the live demo here:  
+[**GreenMarket Live Demo**](https://Behnoushin.github.io/GreenMarket/)
+
+---
 ## 🌟 Features
 
 - Modern, responsive UI
@@ -14,13 +23,6 @@
 - Contact form with focus effects
 - Google Fonts, Font Awesome & Bootstrap Icons integration
 - Fully responsive for mobile and desktop
-
----
-
-## 🖼️ Live Demo
-
-Check out the live demo here:  
-[**GreenMarket Live Demo**](https://Behnoushin.github.io/GreenMarket/)
 
 ---
 
